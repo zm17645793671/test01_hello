@@ -14,3 +14,17 @@ class TestLogin:
     def test05(self):
         assert 0
 
+    def test06(self):
+        assert 0
+
+    def test07(self):
+        assert 0
+
+    def test08(self):
+        assert 0
+
+    def test09(self):
+        assert 1
+
+    def test10(self):
+        assert 1
